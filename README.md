@@ -4,10 +4,12 @@
 
 - 👋 Hi, I’m @KhalilAhmedSharif
 - Nice To Meet You 😄
-- Quick introduction about me:
+
+# Quick introduction about me:
 
 🌱 I consider myself a Passionate Software Engineer, Full Stack Developer
-- 👀 I’m interested in Web Development, Machine Learning stuff
+
+👀 I’m interested in Web Development, Machine Learning stuff
 
 <!---
 KhalilAhmedSharif/KhalilAhmedSharif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
