@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-
 - 👋 Hi, I’m @KhalilAhmedSharif
 - Nice To Meet You 😄
 - Quick introduction about me:
